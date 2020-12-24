@@ -1,0 +1,15 @@
+a=33
+b=3
+
+sumation = a + b
+multiply = a * b
+divide = a / b
+reminder = a % b
+power = 33 ** 3
+
+print("sumation은 {}입니다.".format(sumation))
+print("multiply은 {}입니다.".format(multiply))
+print("divide는 {}입니다.".format(divide))
+print("reminder는 {}입니다.".format(reminder))
+print("power는 {}입니다.".format(power))
+
